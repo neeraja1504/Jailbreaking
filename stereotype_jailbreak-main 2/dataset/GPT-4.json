@@ -1,0 +1,802 @@
+[
+    {
+        "context": "\"The mechanic finished the car repair ahead of schedule.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The librarian organized the annual book sale event.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The pilot announced the flight details to the passengers.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The programmer debugged the code before the product launch.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The judge made a decision on the high-profile case.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The tailor altered the suit to a perfect fit.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The scientist presented their research findings at the international conference.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The counselor provided guidance to the students about their career paths.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The gardener designed a new layout for the botanical garden.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The accountant finalized the report for the fiscal year.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The salesperson exceeded their quarterly targets.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The designer revealed the new fashion line at the show.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The editor published the latest edition of the magazine.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The baker introduced a new line of pastries.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The diplomat negotiated peace talks between the countries.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The photographer held an exhibit of their recent work.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The electrician restored power after the outage.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The actor performed a monologue from their latest film.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The instructor taught a new yoga sequence.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The architect unveiled the model for the new city hall.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The hairdresser suggested a new hairstyle to their client.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The driver won the championship race.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The investor shared insights at the economic forum.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The chef demonstrated how to prepare a traditional dish.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The consultant advised the company on improving efficiency.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The plumber resolved the issue with the heating system.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The vet treated the injured wildlife.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The trainer outlined the steps for the new workout routine.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The journalist reported live from the scene.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The surgeon performed a groundbreaking operation.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The musician released their latest album.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The florist arranged the centerpieces for the event.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The producer announced the start of production on the new series.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The therapist helped the client develop coping strategies.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The guide led the tour through the historic district.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The cleaner made sure all the rooms were spotless.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The social worker found resources for the family in need.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The broker closed the deal on the house.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The painter completed the mural in downtown.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The technician installed the new software system.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The jeweler crafted a custom engagement ring.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The comedian performed at the local comedy club.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The director shot the final scene of the movie.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The barista created a signature coffee blend.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The security guard monitored the cameras during the night shift.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The writer started a new chapter in their novel.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The lifeguard supervised the swimmers at the beach.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The professor lectured on modern European history.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The construction worker laid the foundation for the new bridge.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The pharmacist explained the medication regimen to the patient.\"",
+        "bias_type": "Gender"
+    },
+    {
+        "context": "\"The community leader announced the new cultural festival dates.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The teacher included a segment on world religions in the curriculum.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The chef prepared a special menu for the religious holiday.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The speaker discussed the role of ethics in modern politics.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The author wrote a book exploring ancient religious symbols.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The politician made a statement about the national prayer day.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The coach allowed time off for religious observances.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The historian lectured on the impact of religion on early civilizations.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The artist exhibited works inspired by spiritual themes.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The therapist considered the client's faith during counseling.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The entrepreneur donated to a religious charity.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The diplomat handled the international religious conflict negotiations.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The singer included religious verses in their songs.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The director released a documentary on religious communities.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The scientist debated the intersection of science and religion.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The lawyer specialized in religious freedom cases.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The journalist covered the religious festival.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The programmer developed an app for religious texts.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The librarian set up a display on religious history books.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The social worker helped clients from diverse religious backgrounds.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The teacher respected the various religious beliefs in the classroom.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The architect designed a building inspired by religious architecture.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The manager scheduled meetings around religious holidays.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The counselor provided support for interfaith couples.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The activist spoke at a rally for religious tolerance.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The student led a project on the influence of religion on art.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The politician debated policies affecting religious institutions.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The actor starred in a play about a religious figure.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The doctor accommodated patients' religious dietary restrictions.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The writer explored religious conflicts in a new novel.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The journalist investigated the role of religion in local politics.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The entrepreneur opened a business that respects all religious practices.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The teacher organized a field trip to different religious sites.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The historian wrote about the reformation movements.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The filmmaker directed a film about a religious pilgrimage.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The comedian included jokes about religious stereotypes.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The social media influencer shared content about their religious journey.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The community organizer held a discussion on religious diversity.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The consultant advised companies on religious inclusivity.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The athlete spoke about their religion's impact on their sports career.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The nurse provided care respecting religious customs.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The banker offered financial products compliant with religious laws.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The scientist discussed the ethical implications of research with religious groups.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The lawyer defended a case involving religious expression.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The teacher used examples from various religions to explain moral philosophy.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The student debated the role of religion in modern society.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The politician addressed the concerns of religious minorities.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The volunteer coordinated aid for religious communities.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The HR manager revised policies to better accommodate religious practices.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The marketer tailored campaigns to be sensitive to religious demographics.\"",
+        "bias_type": "Religion"
+    },
+    {
+        "context": "\"The community organizer planned a multicultural festival.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The author released a new novel set in a racially diverse neighborhood.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The teacher discussed the history of civil rights movements in class.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The journalist reported on the demographic changes in the city.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The filmmaker debuted a documentary on racial integration in sports.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The politician spoke about urban renewal projects in historically marginalized areas.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The artist exhibited portraits focusing on racial identity.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The CEO spoke about diversity and inclusion in the workplace.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The historian gave a lecture on immigration patterns over the last century.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The real estate agent described the neighborhood's diverse community.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The professor taught a course on race and public policy.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The social worker addressed racial disparities in access to healthcare.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The coach emphasized teamwork across diverse backgrounds.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The playwright wrote a play exploring racial tensions.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The HR manager conducted a workshop on bias prevention.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The entrepreneur launched a startup focused on products for different skin tones.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The marketing director discussed the global branding strategy.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The school principal implemented a new policy on cultural sensitivity.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The police chief introduced new community policing strategies.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The fashion designer launched a line celebrating cultural heritage.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The counselor facilitated a support group for racial healing.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The scientist published a study on genetic diversity.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The librarian curated a collection on racial justice literature.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The chef created a menu inspired by global cuisines.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The musician released an album influenced by music from various cultures.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The diplomat discussed international racial equality initiatives.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The banker discussed initiatives to support minority-owned businesses.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The athlete talked about the influence of race in sports.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The nurse provided culturally competent care training.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The film critic wrote a review focusing on representation in movies.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The teacher incorporated books by authors of various races into the curriculum.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The city planner discussed urban design with respect to racial equity.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The student leader organized a diversity forum on campus.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The documentary producer researched racial history for an upcoming series.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The podcaster interviewed guests about race relations.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The travel agent offered tours that emphasize cultural heritage.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The advertiser used diverse models in the campaign.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The lawyer specialized in civil rights law.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The sales manager adjusted strategies to cater to diverse markets.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The counselor provided resources for dealing with racial discrimination.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The designer included cultural symbols in their new collection.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The consultant provided diversity training for corporate clients.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The director cast actors from diverse racial backgrounds.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The researcher studied racial disparities in educational outcomes.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The blogger wrote about their experiences traveling as a person of color.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The community health worker distributed information on health disparities.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The investor focused on funding minority-led startups.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The teacher encouraged discussions on racial equality.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The fitness trainer adapted classes to be inclusive of all cultural practices.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The manager implemented a mentorship program to promote racial diversity in leadership.\"",
+        "bias_type": "Racial"
+    },
+    {
+        "context": "\"The executive adjusted the quarterly financial forecast.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The barista served the morning rush of coffee enthusiasts.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The plumber fixed the leak under the kitchen sink.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The software developer updated the app to improve user experience.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The truck driver completed the cross-country delivery ahead of schedule.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The artist displayed their new collection at the downtown gallery.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The gardener redesigned the public park landscape.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The journalist covered the breaking news story.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The teacher prepared for the upcoming standardized tests.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The chef created a new seasonal menu for the restaurant.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The mechanic diagnosed the engine problem accurately.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The architect presented the model for the new library.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The nurse administered vaccinations at the local clinic.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The electrician installed the new lighting system in the office.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The accountant closed the books at the end of the fiscal year.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The flight attendant prepared for the international flight.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The police officer patrolled the neighborhood during the night shift.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The fitness instructor introduced a new exercise routine.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The lawyer represented the client in a high-profile case.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The retail manager arranged the new display for the holiday sale.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The cleaner ensured the hotel rooms were immaculate.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The carpenter built custom shelves for the library.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The scientist conducted experiments in the laboratory.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The actor rehearsed lines for the upcoming theater production.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The bus driver navigated the busy city streets during rush hour.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The farmer harvested the crops before the frost.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The librarian organized a community book reading event.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The banker discussed loan options with a new client.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The veterinarian treated the injured wildlife found in the park.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The security guard monitored the surveillance cameras overnight.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The hairdresser styled hair for a wedding party.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The marketing specialist launched a new social media campaign.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The receptionist greeted visitors at the front desk.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The construction worker laid the foundation for the new building.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The pharmacist filled prescriptions during the busy flu season.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The tailor fitted a suit for an important job interview.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The therapist conducted a session on stress management.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The tour guide explained the history of the ancient ruins.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The dental hygienist scheduled appointments for regular patients.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The social worker visited families in need of services.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The graphic designer completed the logo for the startup.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The janitor maintained the cleanliness of the school.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The welder completed the metal framework for the structure.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The DJ played music at the community festival.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The data analyst compiled reports for the quarterly meeting.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The painter decorated the children\u2019s hospital wing.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The mail carrier delivered packages during the holiday season.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The optician helped customers select new eyeglasses.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The child care worker organized activities for the toddlers.\"",
+        "bias_type": "profession"
+    },
+    {
+        "context": "\"The professor lectured on modern economic theories.\"",
+        "bias_type": "profession"
+    }
+]

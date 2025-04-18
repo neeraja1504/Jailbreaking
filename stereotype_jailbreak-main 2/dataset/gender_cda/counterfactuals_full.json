@@ -1,0 +1,2491 @@
+{
+    "countryman": {
+        "words": [
+            "countrywoman"
+        ],
+        "gender": "M"
+    },
+    "countrywoman": {
+        "words": [
+            "countryman"
+        ],
+        "gender": "F"
+    },
+    "fraternal": {
+        "words": [
+            "sororal"
+        ],
+        "gender": "M"
+    },
+    "sororal": {
+        "words": [
+            "fraternal"
+        ],
+        "gender": "F"
+    },
+    "wizards": {
+        "words": [
+            "witches"
+        ],
+        "gender": "M"
+    },
+    "witches": {
+        "words": [
+            "wizards"
+        ],
+        "gender": "F"
+    },
+    "manservant": {
+        "words": [
+            "maidservant",
+            "maid"
+        ],
+        "gender": "M"
+    },
+    "maidservant": {
+        "words": [
+            "manservant"
+        ],
+        "gender": "F"
+    },
+    "fathers": {
+        "words": [
+            "mothers"
+        ],
+        "gender": "M"
+    },
+    "mothers": {
+        "words": [
+            "fathers"
+        ],
+        "gender": "F"
+    },
+    "divo": {
+        "words": [
+            "diva"
+        ],
+        "gender": "M"
+    },
+    "diva": {
+        "words": [
+            "divo"
+        ],
+        "gender": "F"
+    },
+    "actor": {
+        "words": [
+            "actress"
+        ],
+        "gender": "M"
+    },
+    "actress": {
+        "words": [
+            "actor"
+        ],
+        "gender": "F"
+    },
+    "bachelor": {
+        "words": [
+            "spinster",
+            "maiden",
+            "bachelorette"
+        ],
+        "gender": "M"
+    },
+    "spinster": {
+        "words": [
+            "bachelor"
+        ],
+        "gender": "F"
+    },
+    "papa": {
+        "words": [
+            "mama"
+        ],
+        "gender": "M"
+    },
+    "mama": {
+        "words": [
+            "papa"
+        ],
+        "gender": "F"
+    },
+    "dukes": {
+        "words": [
+            "duchesses"
+        ],
+        "gender": "M"
+    },
+    "duchesses": {
+        "words": [
+            "dukes"
+        ],
+        "gender": "F"
+    },
+    "barman": {
+        "words": [
+            "barwoman"
+        ],
+        "gender": "M"
+    },
+    "barwoman": {
+        "words": [
+            "barman"
+        ],
+        "gender": "F"
+    },
+    "countrymen": {
+        "words": [
+            "countrywomen"
+        ],
+        "gender": "M"
+    },
+    "countrywomen": {
+        "words": [
+            "countrymen"
+        ],
+        "gender": "F"
+    },
+    "brideprice": {
+        "words": [
+            "dowry"
+        ],
+        "gender": "M"
+    },
+    "dowry": {
+        "words": [
+            "brideprice"
+        ],
+        "gender": "F"
+    },
+    "hosts": {
+        "words": [
+            "hostesses"
+        ],
+        "gender": "M"
+    },
+    "hostesses": {
+        "words": [
+            "hosts"
+        ],
+        "gender": "F"
+    },
+    "airmen": {
+        "words": [
+            "airwomen"
+        ],
+        "gender": "M"
+    },
+    "airwomen": {
+        "words": [
+            "airmen"
+        ],
+        "gender": "F"
+    },
+    "andropause": {
+        "words": [
+            "menopause"
+        ],
+        "gender": "M"
+    },
+    "menopause": {
+        "words": [
+            "andropause"
+        ],
+        "gender": "F"
+    },
+    "penis": {
+        "words": [
+            "clitoris",
+            "vagina"
+        ],
+        "gender": "M"
+    },
+    "clitoris": {
+        "words": [
+            "penis"
+        ],
+        "gender": "F"
+    },
+    "prince": {
+        "words": [
+            "princess"
+        ],
+        "gender": "M"
+    },
+    "princess": {
+        "words": [
+            "prince"
+        ],
+        "gender": "F"
+    },
+    "governors": {
+        "words": [
+            "governesses"
+        ],
+        "gender": "M"
+    },
+    "governesses": {
+        "words": [
+            "governors"
+        ],
+        "gender": "F"
+    },
+    "abbot": {
+        "words": [
+            "abbess"
+        ],
+        "gender": "M"
+    },
+    "abbess": {
+        "words": [
+            "abbot"
+        ],
+        "gender": "F"
+    },
+    "men": {
+        "words": [
+            "women"
+        ],
+        "gender": "M"
+    },
+    "women": {
+        "words": [
+            "men"
+        ],
+        "gender": "F"
+    },
+    "widower": {
+        "words": [
+            "widow"
+        ],
+        "gender": "M"
+    },
+    "widow": {
+        "words": [
+            "widower"
+        ],
+        "gender": "F"
+    },
+    "gentlemen": {
+        "words": [
+            "ladies"
+        ],
+        "gender": "M"
+    },
+    "ladies": {
+        "words": [
+            "gentlemen",
+            "fellas",
+            "lords",
+            "gents"
+        ],
+        "gender": "F"
+    },
+    "sorcerers": {
+        "words": [
+            "sorceresses"
+        ],
+        "gender": "M"
+    },
+    "sorceresses": {
+        "words": [
+            "sorcerers"
+        ],
+        "gender": "F"
+    },
+    "sir": {
+        "words": [
+            "madam",
+            "ma'am",
+            "miss"
+        ],
+        "gender": "M"
+    },
+    "madam": {
+        "words": [
+            "sir"
+        ],
+        "gender": "F"
+    },
+    "bridegrooms": {
+        "words": [
+            "brides"
+        ],
+        "gender": "M"
+    },
+    "brides": {
+        "words": [
+            "bridegrooms",
+            "grooms",
+            "grooms"
+        ],
+        "gender": "F"
+    },
+    "baron": {
+        "words": [
+            "baroness"
+        ],
+        "gender": "M"
+    },
+    "baroness": {
+        "words": [
+            "baron"
+        ],
+        "gender": "F"
+    },
+    "househusbands": {
+        "words": [
+            "housewives"
+        ],
+        "gender": "M"
+    },
+    "housewives": {
+        "words": [
+            "househusbands"
+        ],
+        "gender": "F"
+    },
+    "gods": {
+        "words": [
+            "godesses"
+        ],
+        "gender": "M"
+    },
+    "godesses": {
+        "words": [
+            "gods"
+        ],
+        "gender": "F"
+    },
+    "nephew": {
+        "words": [
+            "niece"
+        ],
+        "gender": "M"
+    },
+    "niece": {
+        "words": [
+            "nephew"
+        ],
+        "gender": "F"
+    },
+    "widowers": {
+        "words": [
+            "widows"
+        ],
+        "gender": "M"
+    },
+    "widows": {
+        "words": [
+            "widowers"
+        ],
+        "gender": "F"
+    },
+    "lord": {
+        "words": [
+            "lady"
+        ],
+        "gender": "M"
+    },
+    "lady": {
+        "words": [
+            "lord",
+            "fella",
+            "mentleman",
+            "gentleman"
+        ],
+        "gender": "F"
+    },
+    "brother": {
+        "words": [
+            "sister"
+        ],
+        "gender": "M"
+    },
+    "sister": {
+        "words": [
+            "brother"
+        ],
+        "gender": "F"
+    },
+    "grooms": {
+        "words": [
+            "brides",
+            "brides"
+        ],
+        "gender": "M"
+    },
+    "priest": {
+        "words": [
+            "nun",
+            "priestess"
+        ],
+        "gender": "M"
+    },
+    "nun": {
+        "words": [
+            "priest",
+            "monk"
+        ],
+        "gender": "F"
+    },
+    "adultors": {
+        "words": [
+            "adultresses"
+        ],
+        "gender": "M"
+    },
+    "adultresses": {
+        "words": [
+            "adultors"
+        ],
+        "gender": "F"
+    },
+    "andrology": {
+        "words": [
+            "obstetrics"
+        ],
+        "gender": "M"
+    },
+    "obstetrics": {
+        "words": [
+            "andrology"
+        ],
+        "gender": "F"
+    },
+    "bellboys": {
+        "words": [
+            "bellgirls"
+        ],
+        "gender": "M"
+    },
+    "bellgirls": {
+        "words": [
+            "bellboys"
+        ],
+        "gender": "F"
+    },
+    "his": {
+        "words": [
+            "her",
+            "hers"
+        ],
+        "gender": "M"
+    },
+    "her": {
+        "words": [
+            "his",
+            "him"
+        ],
+        "gender": "F"
+    },
+    "marquis": {
+        "words": [
+            "marchioness"
+        ],
+        "gender": "M"
+    },
+    "marchioness": {
+        "words": [
+            "marquis"
+        ],
+        "gender": "F"
+    },
+    "princes": {
+        "words": [
+            "princesses"
+        ],
+        "gender": "M"
+    },
+    "princesses": {
+        "words": [
+            "princes"
+        ],
+        "gender": "F"
+    },
+    "emperors": {
+        "words": [
+            "empresses"
+        ],
+        "gender": "M"
+    },
+    "empresses": {
+        "words": [
+            "emperors"
+        ],
+        "gender": "F"
+    },
+    "stallion": {
+        "words": [
+            "mare"
+        ],
+        "gender": "M"
+    },
+    "mare": {
+        "words": [
+            "stallion",
+            "gelding"
+        ],
+        "gender": "F"
+    },
+    "chairman": {
+        "words": [
+            "chairwoman"
+        ],
+        "gender": "M"
+    },
+    "chairwoman": {
+        "words": [
+            "chairman"
+        ],
+        "gender": "F"
+    },
+    "monastery": {
+        "words": [
+            "convent"
+        ],
+        "gender": "M"
+    },
+    "convent": {
+        "words": [
+            "monastery"
+        ],
+        "gender": "F"
+    },
+    "priests": {
+        "words": [
+            "priestesses",
+            "nuns"
+        ],
+        "gender": "M"
+    },
+    "priestesses": {
+        "words": [
+            "priests"
+        ],
+        "gender": "F"
+    },
+    "boyhood": {
+        "words": [
+            "girlhood"
+        ],
+        "gender": "M"
+    },
+    "girlhood": {
+        "words": [
+            "boyhood"
+        ],
+        "gender": "F"
+    },
+    "fellas": {
+        "words": [
+            "ladies"
+        ],
+        "gender": "M"
+    },
+    "king": {
+        "words": [
+            "queen"
+        ],
+        "gender": "M"
+    },
+    "queen": {
+        "words": [
+            "king"
+        ],
+        "gender": "F"
+    },
+    "dudes": {
+        "words": [
+            "gals",
+            "chicks"
+        ],
+        "gender": "M"
+    },
+    "gals": {
+        "words": [
+            "dudes",
+            "guys"
+        ],
+        "gender": "F"
+    },
+    "daddies": {
+        "words": [
+            "mommies"
+        ],
+        "gender": "M"
+    },
+    "mommies": {
+        "words": [
+            "daddies"
+        ],
+        "gender": "F"
+    },
+    "maid": {
+        "words": [
+            "manservant"
+        ],
+        "gender": "F"
+    },
+    "semen": {
+        "words": [
+            "female_ejaculation"
+        ],
+        "gender": "M"
+    },
+    "female_ejaculation": {
+        "words": [
+            "semen"
+        ],
+        "gender": "F"
+    },
+    "spokesman": {
+        "words": [
+            "spokeswoman"
+        ],
+        "gender": "M"
+    },
+    "spokeswoman": {
+        "words": [
+            "spokesman"
+        ],
+        "gender": "F"
+    },
+    "tailor": {
+        "words": [
+            "seamstress"
+        ],
+        "gender": "M"
+    },
+    "seamstress": {
+        "words": [
+            "tailor"
+        ],
+        "gender": "F"
+    },
+    "cowboys": {
+        "words": [
+            "cowgirls"
+        ],
+        "gender": "M"
+    },
+    "cowgirls": {
+        "words": [
+            "cowboys"
+        ],
+        "gender": "F"
+    },
+    "dude": {
+        "words": [
+            "chick",
+            "gal"
+        ],
+        "gender": "M"
+    },
+    "chick": {
+        "words": [
+            "dude"
+        ],
+        "gender": "F"
+    },
+    "bachelors": {
+        "words": [
+            "spinsters"
+        ],
+        "gender": "M"
+    },
+    "spinsters": {
+        "words": [
+            "bachelors"
+        ],
+        "gender": "F"
+    },
+    "barbershop": {
+        "words": [
+            "hair_salon"
+        ],
+        "gender": "M"
+    },
+    "hair_salon": {
+        "words": [
+            "barbershop"
+        ],
+        "gender": "F"
+    },
+    "emperor": {
+        "words": [
+            "empress"
+        ],
+        "gender": "M"
+    },
+    "empress": {
+        "words": [
+            "emperor"
+        ],
+        "gender": "F"
+    },
+    "daddy": {
+        "words": [
+            "mommy"
+        ],
+        "gender": "M"
+    },
+    "mommy": {
+        "words": [
+            "daddy"
+        ],
+        "gender": "F"
+    },
+    "masculism": {
+        "words": [
+            "feminism"
+        ],
+        "gender": "M"
+    },
+    "feminism": {
+        "words": [
+            "masculism"
+        ],
+        "gender": "F"
+    },
+    "guys": {
+        "words": [
+            "gals"
+        ],
+        "gender": "M"
+    },
+    "enchanter": {
+        "words": [
+            "enchantress"
+        ],
+        "gender": "M"
+    },
+    "enchantress": {
+        "words": [
+            "enchanter"
+        ],
+        "gender": "F"
+    },
+    "guy": {
+        "words": [
+            "gal"
+        ],
+        "gender": "M"
+    },
+    "gal": {
+        "words": [
+            "guy",
+            "dude"
+        ],
+        "gender": "F"
+    },
+    "fatherhood": {
+        "words": [
+            "motherhood"
+        ],
+        "gender": "M"
+    },
+    "motherhood": {
+        "words": [
+            "fatherhood"
+        ],
+        "gender": "F"
+    },
+    "androgen": {
+        "words": [
+            "estrogen"
+        ],
+        "gender": "M"
+    },
+    "estrogen": {
+        "words": [
+            "androgen"
+        ],
+        "gender": "F"
+    },
+    "cameramen": {
+        "words": [
+            "camerawomen"
+        ],
+        "gender": "M"
+    },
+    "camerawomen": {
+        "words": [
+            "cameramen"
+        ],
+        "gender": "F"
+    },
+    "godfather": {
+        "words": [
+            "godmother"
+        ],
+        "gender": "M"
+    },
+    "godmother": {
+        "words": [
+            "godfather"
+        ],
+        "gender": "F"
+    },
+    "strongman": {
+        "words": [
+            "strongwoman"
+        ],
+        "gender": "M"
+    },
+    "strongwoman": {
+        "words": [
+            "strongman"
+        ],
+        "gender": "F"
+    },
+    "god": {
+        "words": [
+            "goddess",
+            "godess"
+        ],
+        "gender": "M"
+    },
+    "goddess": {
+        "words": [
+            "god"
+        ],
+        "gender": "F"
+    },
+    "patriarch": {
+        "words": [
+            "matriarch"
+        ],
+        "gender": "M"
+    },
+    "matriarch": {
+        "words": [
+            "patriarch"
+        ],
+        "gender": "F"
+    },
+    "uncle": {
+        "words": [
+            "aunt"
+        ],
+        "gender": "M"
+    },
+    "aunt": {
+        "words": [
+            "uncle"
+        ],
+        "gender": "F"
+    },
+    "chairmen": {
+        "words": [
+            "chairwomen"
+        ],
+        "gender": "M"
+    },
+    "chairwomen": {
+        "words": [
+            "chairmen"
+        ],
+        "gender": "F"
+    },
+    "ma'am": {
+        "words": [
+            "sir"
+        ],
+        "gender": "F"
+    },
+    "brotherhood": {
+        "words": [
+            "sisterhood"
+        ],
+        "gender": "M"
+    },
+    "sisterhood": {
+        "words": [
+            "brotherhood"
+        ],
+        "gender": "F"
+    },
+    "host": {
+        "words": [
+            "hostess"
+        ],
+        "gender": "M"
+    },
+    "hostess": {
+        "words": [
+            "host",
+            "male_host"
+        ],
+        "gender": "F"
+    },
+    "testosterone": {
+        "words": [
+            "estradiol"
+        ],
+        "gender": "M"
+    },
+    "estradiol": {
+        "words": [
+            "testosterone"
+        ],
+        "gender": "F"
+    },
+    "husband": {
+        "words": [
+            "wife"
+        ],
+        "gender": "M"
+    },
+    "wife": {
+        "words": [
+            "husband",
+            "hubby"
+        ],
+        "gender": "F"
+    },
+    "dad": {
+        "words": [
+            "mom"
+        ],
+        "gender": "M"
+    },
+    "mom": {
+        "words": [
+            "dad"
+        ],
+        "gender": "F"
+    },
+    "steward": {
+        "words": [
+            "stewardess"
+        ],
+        "gender": "M"
+    },
+    "stewardess": {
+        "words": [
+            "steward"
+        ],
+        "gender": "F"
+    },
+    "males": {
+        "words": [
+            "females"
+        ],
+        "gender": "M"
+    },
+    "females": {
+        "words": [
+            "males"
+        ],
+        "gender": "F"
+    },
+    "cialis": {
+        "words": [
+            "viagra"
+        ],
+        "gender": "M"
+    },
+    "viagra": {
+        "words": [
+            "cialis"
+        ],
+        "gender": "F"
+    },
+    "spokesmen": {
+        "words": [
+            "spokeswomen"
+        ],
+        "gender": "M"
+    },
+    "spokeswomen": {
+        "words": [
+            "spokesmen"
+        ],
+        "gender": "F"
+    },
+    "pa": {
+        "words": [
+            "ma"
+        ],
+        "gender": "M"
+    },
+    "ma": {
+        "words": [
+            "pa"
+        ],
+        "gender": "F"
+    },
+    "beau": {
+        "words": [
+            "belle"
+        ],
+        "gender": "M"
+    },
+    "belle": {
+        "words": [
+            "beau"
+        ],
+        "gender": "F"
+    },
+    "stud": {
+        "words": [
+            "minx"
+        ],
+        "gender": "M"
+    },
+    "minx": {
+        "words": [
+            "stud"
+        ],
+        "gender": "F"
+    },
+    "maiden": {
+        "words": [
+            "bachelor"
+        ],
+        "gender": "F"
+    },
+    "wizard": {
+        "words": [
+            "witch"
+        ],
+        "gender": "M"
+    },
+    "witch": {
+        "words": [
+            "wizard"
+        ],
+        "gender": "F"
+    },
+    "miss": {
+        "words": [
+            "sir"
+        ],
+        "gender": "F"
+    },
+    "nephews": {
+        "words": [
+            "nieces"
+        ],
+        "gender": "M"
+    },
+    "nieces": {
+        "words": [
+            "nephews"
+        ],
+        "gender": "F"
+    },
+    "fathered": {
+        "words": [
+            "mothered"
+        ],
+        "gender": "M"
+    },
+    "mothered": {
+        "words": [
+            "fathered"
+        ],
+        "gender": "F"
+    },
+    "bull": {
+        "words": [
+            "cow"
+        ],
+        "gender": "M"
+    },
+    "cow": {
+        "words": [
+            "bull"
+        ],
+        "gender": "F"
+    },
+    "beaus": {
+        "words": [
+            "belles"
+        ],
+        "gender": "M"
+    },
+    "belles": {
+        "words": [
+            "beaus"
+        ],
+        "gender": "F"
+    },
+    "councilmen": {
+        "words": [
+            "councilwomen"
+        ],
+        "gender": "M"
+    },
+    "councilwomen": {
+        "words": [
+            "councilmen"
+        ],
+        "gender": "F"
+    },
+    "landlords": {
+        "words": [
+            "landladies"
+        ],
+        "gender": "M"
+    },
+    "landladies": {
+        "words": [
+            "landlords"
+        ],
+        "gender": "F"
+    },
+    "grandson": {
+        "words": [
+            "granddaughter"
+        ],
+        "gender": "M"
+    },
+    "granddaughter": {
+        "words": [
+            "grandson"
+        ],
+        "gender": "F"
+    },
+    "fiances": {
+        "words": [
+            "fiancees"
+        ],
+        "gender": "M"
+    },
+    "fiancees": {
+        "words": [
+            "fiances"
+        ],
+        "gender": "F"
+    },
+    "stepfathers": {
+        "words": [
+            "stepmothers"
+        ],
+        "gender": "M"
+    },
+    "stepmothers": {
+        "words": [
+            "stepfathers"
+        ],
+        "gender": "F"
+    },
+    "horsemen": {
+        "words": [
+            "horsewomen"
+        ],
+        "gender": "M"
+    },
+    "horsewomen": {
+        "words": [
+            "horsemen"
+        ],
+        "gender": "F"
+    },
+    "grandfathers": {
+        "words": [
+            "grandmothers"
+        ],
+        "gender": "M"
+    },
+    "grandmothers": {
+        "words": [
+            "grandfathers"
+        ],
+        "gender": "F"
+    },
+    "adultor": {
+        "words": [
+            "adultress"
+        ],
+        "gender": "M"
+    },
+    "adultress": {
+        "words": [
+            "adultor"
+        ],
+        "gender": "F"
+    },
+    "schoolboy": {
+        "words": [
+            "schoolgirl"
+        ],
+        "gender": "M"
+    },
+    "schoolgirl": {
+        "words": [
+            "schoolboy"
+        ],
+        "gender": "F"
+    },
+    "rooster": {
+        "words": [
+            "hen"
+        ],
+        "gender": "M"
+    },
+    "hen": {
+        "words": [
+            "rooster"
+        ],
+        "gender": "F"
+    },
+    "grandsons": {
+        "words": [
+            "granddaughters"
+        ],
+        "gender": "M"
+    },
+    "granddaughters": {
+        "words": [
+            "grandsons"
+        ],
+        "gender": "F"
+    },
+    "bachelorette": {
+        "words": [
+            "bachelor"
+        ],
+        "gender": "F"
+    },
+    "cameraman": {
+        "words": [
+            "camerawoman"
+        ],
+        "gender": "M"
+    },
+    "camerawoman": {
+        "words": [
+            "cameraman"
+        ],
+        "gender": "F"
+    },
+    "dads": {
+        "words": [
+            "moms"
+        ],
+        "gender": "M"
+    },
+    "moms": {
+        "words": [
+            "dads"
+        ],
+        "gender": "F"
+    },
+    "him": {
+        "words": [
+            "her"
+        ],
+        "gender": "M"
+    },
+    "master": {
+        "words": [
+            "mistress"
+        ],
+        "gender": "M"
+    },
+    "mistress": {
+        "words": [
+            "master",
+            "paramour"
+        ],
+        "gender": "F"
+    },
+    "lad": {
+        "words": [
+            "lass"
+        ],
+        "gender": "M"
+    },
+    "lass": {
+        "words": [
+            "lad",
+            "chap"
+        ],
+        "gender": "F"
+    },
+    "policeman": {
+        "words": [
+            "policewoman"
+        ],
+        "gender": "M"
+    },
+    "policewoman": {
+        "words": [
+            "policeman"
+        ],
+        "gender": "F"
+    },
+    "monk": {
+        "words": [
+            "nun"
+        ],
+        "gender": "M"
+    },
+    "actors": {
+        "words": [
+            "actresses"
+        ],
+        "gender": "M"
+    },
+    "actresses": {
+        "words": [
+            "actors"
+        ],
+        "gender": "F"
+    },
+    "salesmen": {
+        "words": [
+            "saleswomen"
+        ],
+        "gender": "M"
+    },
+    "saleswomen": {
+        "words": [
+            "salesmen"
+        ],
+        "gender": "F"
+    },
+    "boyfriend": {
+        "words": [
+            "girlfriend"
+        ],
+        "gender": "M"
+    },
+    "girlfriend": {
+        "words": [
+            "boyfriend"
+        ],
+        "gender": "F"
+    },
+    "councilman": {
+        "words": [
+            "councilwoman"
+        ],
+        "gender": "M"
+    },
+    "councilwoman": {
+        "words": [
+            "councilman"
+        ],
+        "gender": "F"
+    },
+    "fella": {
+        "words": [
+            "lady"
+        ],
+        "gender": "M"
+    },
+    "statesman": {
+        "words": [
+            "stateswoman"
+        ],
+        "gender": "M"
+    },
+    "stateswoman": {
+        "words": [
+            "statesman"
+        ],
+        "gender": "F"
+    },
+    "paternal": {
+        "words": [
+            "maternal"
+        ],
+        "gender": "M"
+    },
+    "maternal": {
+        "words": [
+            "paternal"
+        ],
+        "gender": "F"
+    },
+    "chap": {
+        "words": [
+            "lass"
+        ],
+        "gender": "M"
+    },
+    "landlord": {
+        "words": [
+            "landlady"
+        ],
+        "gender": "M"
+    },
+    "landlady": {
+        "words": [
+            "landlord"
+        ],
+        "gender": "F"
+    },
+    "brethren": {
+        "words": [
+            "sistren"
+        ],
+        "gender": "M"
+    },
+    "sistren": {
+        "words": [
+            "brethren"
+        ],
+        "gender": "F"
+    },
+    "lords": {
+        "words": [
+            "ladies"
+        ],
+        "gender": "M"
+    },
+    "blokes": {
+        "words": [
+            "wenches"
+        ],
+        "gender": "M"
+    },
+    "wenches": {
+        "words": [
+            "blokes"
+        ],
+        "gender": "F"
+    },
+    "fraternity": {
+        "words": [
+            "sorority"
+        ],
+        "gender": "M"
+    },
+    "sorority": {
+        "words": [
+            "fraternity"
+        ],
+        "gender": "F"
+    },
+    "bellboy": {
+        "words": [
+            "bellgirl"
+        ],
+        "gender": "M"
+    },
+    "bellgirl": {
+        "words": [
+            "bellboy"
+        ],
+        "gender": "F"
+    },
+    "duke": {
+        "words": [
+            "duchess"
+        ],
+        "gender": "M"
+    },
+    "duchess": {
+        "words": [
+            "duke"
+        ],
+        "gender": "F"
+    },
+    "ballet_dancer": {
+        "words": [
+            "ballerina"
+        ],
+        "gender": "M"
+    },
+    "ballerina": {
+        "words": [
+            "ballet_dancer"
+        ],
+        "gender": "F"
+    },
+    "chicks": {
+        "words": [
+            "dudes"
+        ],
+        "gender": "F"
+    },
+    "fiance": {
+        "words": [
+            "fiancee"
+        ],
+        "gender": "M"
+    },
+    "fiancee": {
+        "words": [
+            "fiance"
+        ],
+        "gender": "F"
+    },
+    "colts": {
+        "words": [
+            "fillies"
+        ],
+        "gender": "M"
+    },
+    "fillies": {
+        "words": [
+            "colts"
+        ],
+        "gender": "F"
+    },
+    "husbands": {
+        "words": [
+            "wives"
+        ],
+        "gender": "M"
+    },
+    "wives": {
+        "words": [
+            "husbands"
+        ],
+        "gender": "F"
+    },
+    "suitor": {
+        "words": [
+            "suitress"
+        ],
+        "gender": "M"
+    },
+    "suitress": {
+        "words": [
+            "suitor"
+        ],
+        "gender": "F"
+    },
+    "paternity": {
+        "words": [
+            "maternity",
+            "maternity"
+        ],
+        "gender": "M"
+    },
+    "maternity": {
+        "words": [
+            "paternity",
+            "paternity"
+        ],
+        "gender": "F"
+    },
+    "he": {
+        "words": [
+            "she"
+        ],
+        "gender": "M"
+    },
+    "she": {
+        "words": [
+            "he"
+        ],
+        "gender": "F"
+    },
+    "businessman": {
+        "words": [
+            "businesswoman"
+        ],
+        "gender": "M"
+    },
+    "businesswoman": {
+        "words": [
+            "businessman"
+        ],
+        "gender": "F"
+    },
+    "masseurs": {
+        "words": [
+            "masseuses"
+        ],
+        "gender": "M"
+    },
+    "masseuses": {
+        "words": [
+            "masseurs"
+        ],
+        "gender": "F"
+    },
+    "hero": {
+        "words": [
+            "heroine"
+        ],
+        "gender": "M"
+    },
+    "heroine": {
+        "words": [
+            "hero"
+        ],
+        "gender": "F"
+    },
+    "deer": {
+        "words": [
+            "doe"
+        ],
+        "gender": "M"
+    },
+    "doe": {
+        "words": [
+            "deer"
+        ],
+        "gender": "F"
+    },
+    "busboys": {
+        "words": [
+            "busgirls"
+        ],
+        "gender": "M"
+    },
+    "busgirls": {
+        "words": [
+            "busboys"
+        ],
+        "gender": "F"
+    },
+    "boyfriends": {
+        "words": [
+            "girlfriends"
+        ],
+        "gender": "M"
+    },
+    "girlfriends": {
+        "words": [
+            "boyfriends"
+        ],
+        "gender": "F"
+    },
+    "kings": {
+        "words": [
+            "queens"
+        ],
+        "gender": "M"
+    },
+    "queens": {
+        "words": [
+            "kings"
+        ],
+        "gender": "F"
+    },
+    "brothers": {
+        "words": [
+            "sisters"
+        ],
+        "gender": "M"
+    },
+    "sisters": {
+        "words": [
+            "brothers"
+        ],
+        "gender": "F"
+    },
+    "masters": {
+        "words": [
+            "mistresses"
+        ],
+        "gender": "M"
+    },
+    "mistresses": {
+        "words": [
+            "masters"
+        ],
+        "gender": "F"
+    },
+    "stepfather": {
+        "words": [
+            "stepmother"
+        ],
+        "gender": "M"
+    },
+    "stepmother": {
+        "words": [
+            "stepfather"
+        ],
+        "gender": "F"
+    },
+    "son": {
+        "words": [
+            "daughter"
+        ],
+        "gender": "M"
+    },
+    "daughter": {
+        "words": [
+            "son"
+        ],
+        "gender": "F"
+    },
+    "studs": {
+        "words": [
+            "minxes"
+        ],
+        "gender": "M"
+    },
+    "minxes": {
+        "words": [
+            "studs"
+        ],
+        "gender": "F"
+    },
+    "cowboy": {
+        "words": [
+            "cowgirl"
+        ],
+        "gender": "M"
+    },
+    "cowgirl": {
+        "words": [
+            "cowboy"
+        ],
+        "gender": "F"
+    },
+    "mentleman": {
+        "words": [
+            "lady"
+        ],
+        "gender": "M"
+    },
+    "sons": {
+        "words": [
+            "daughters"
+        ],
+        "gender": "M"
+    },
+    "daughters": {
+        "words": [
+            "sons"
+        ],
+        "gender": "F"
+    },
+    "baritone": {
+        "words": [
+            "mezzo"
+        ],
+        "gender": "M"
+    },
+    "mezzo": {
+        "words": [
+            "baritone"
+        ],
+        "gender": "F"
+    },
+    "salesman": {
+        "words": [
+            "saleswoman"
+        ],
+        "gender": "M"
+    },
+    "saleswoman": {
+        "words": [
+            "salesman"
+        ],
+        "gender": "F"
+    },
+    "paramour": {
+        "words": [
+            "mistress"
+        ],
+        "gender": "M"
+    },
+    "male_host": {
+        "words": [
+            "hostess"
+        ],
+        "gender": "M"
+    },
+    "monks": {
+        "words": [
+            "nuns"
+        ],
+        "gender": "M"
+    },
+    "nuns": {
+        "words": [
+            "monks",
+            "priests"
+        ],
+        "gender": "F"
+    },
+    "menservants": {
+        "words": [
+            "maids"
+        ],
+        "gender": "M"
+    },
+    "maids": {
+        "words": [
+            "menservants"
+        ],
+        "gender": "F"
+    },
+    "mr.": {
+        "words": [
+            "mrs."
+        ],
+        "gender": "M"
+    },
+    "mrs.": {
+        "words": [
+            "mr."
+        ],
+        "gender": "F"
+    },
+    "headmasters": {
+        "words": [
+            "headmistresses"
+        ],
+        "gender": "M"
+    },
+    "headmistresses": {
+        "words": [
+            "headmasters"
+        ],
+        "gender": "F"
+    },
+    "lads": {
+        "words": [
+            "lasses"
+        ],
+        "gender": "M"
+    },
+    "lasses": {
+        "words": [
+            "lads"
+        ],
+        "gender": "F"
+    },
+    "congressman": {
+        "words": [
+            "congresswoman"
+        ],
+        "gender": "M"
+    },
+    "congresswoman": {
+        "words": [
+            "congressman"
+        ],
+        "gender": "F"
+    },
+    "airman": {
+        "words": [
+            "airwoman"
+        ],
+        "gender": "M"
+    },
+    "airwoman": {
+        "words": [
+            "airman"
+        ],
+        "gender": "F"
+    },
+    "househusband": {
+        "words": [
+            "housewife"
+        ],
+        "gender": "M"
+    },
+    "housewife": {
+        "words": [
+            "househusband"
+        ],
+        "gender": "F"
+    },
+    "priestess": {
+        "words": [
+            "priest"
+        ],
+        "gender": "F"
+    },
+    "barmen": {
+        "words": [
+            "barwomen"
+        ],
+        "gender": "M"
+    },
+    "barwomen": {
+        "words": [
+            "barmen"
+        ],
+        "gender": "F"
+    },
+    "barons": {
+        "words": [
+            "barnoesses"
+        ],
+        "gender": "M"
+    },
+    "barnoesses": {
+        "words": [
+            "barons"
+        ],
+        "gender": "F"
+    },
+    "abbots": {
+        "words": [
+            "abbesses"
+        ],
+        "gender": "M"
+    },
+    "abbesses": {
+        "words": [
+            "abbots"
+        ],
+        "gender": "F"
+    },
+    "handyman": {
+        "words": [
+            "handywoman"
+        ],
+        "gender": "M"
+    },
+    "handywoman": {
+        "words": [
+            "handyman"
+        ],
+        "gender": "F"
+    },
+    "beard": {
+        "words": [
+            "toque"
+        ],
+        "gender": "M"
+    },
+    "toque": {
+        "words": [
+            "beard"
+        ],
+        "gender": "F"
+    },
+    "fraternities": {
+        "words": [
+            "sororities"
+        ],
+        "gender": "M"
+    },
+    "sororities": {
+        "words": [
+            "fraternities"
+        ],
+        "gender": "F"
+    },
+    "stewards": {
+        "words": [
+            "stewardesses"
+        ],
+        "gender": "M"
+    },
+    "stewardesses": {
+        "words": [
+            "stewards"
+        ],
+        "gender": "F"
+    },
+    "colt": {
+        "words": [
+            "filly"
+        ],
+        "gender": "M"
+    },
+    "filly": {
+        "words": [
+            "colt"
+        ],
+        "gender": "F"
+    },
+    "czar": {
+        "words": [
+            "czarina"
+        ],
+        "gender": "M"
+    },
+    "czarina": {
+        "words": [
+            "czar"
+        ],
+        "gender": "F"
+    },
+    "stepsons": {
+        "words": [
+            "stepdaughters"
+        ],
+        "gender": "M"
+    },
+    "stepdaughters": {
+        "words": [
+            "stepsons"
+        ],
+        "gender": "F"
+    },
+    "himself": {
+        "words": [
+            "herself"
+        ],
+        "gender": "M"
+    },
+    "herself": {
+        "words": [
+            "himself"
+        ],
+        "gender": "F"
+    },
+    "boys": {
+        "words": [
+            "girls"
+        ],
+        "gender": "M"
+    },
+    "girls": {
+        "words": [
+            "boys"
+        ],
+        "gender": "F"
+    },
+    "lions": {
+        "words": [
+            "lionesses"
+        ],
+        "gender": "M"
+    },
+    "lionesses": {
+        "words": [
+            "lions"
+        ],
+        "gender": "F"
+    },
+    "gentleman": {
+        "words": [
+            "lady"
+        ],
+        "gender": "M"
+    },
+    "vagina": {
+        "words": [
+            "penis"
+        ],
+        "gender": "F"
+    },
+    "hers": {
+        "words": [
+            "his"
+        ],
+        "gender": "F"
+    },
+    "masseur": {
+        "words": [
+            "masseuse"
+        ],
+        "gender": "M"
+    },
+    "masseuse": {
+        "words": [
+            "masseur"
+        ],
+        "gender": "F"
+    },
+    "bulls": {
+        "words": [
+            "cows"
+        ],
+        "gender": "M"
+    },
+    "cows": {
+        "words": [
+            "bulls"
+        ],
+        "gender": "F"
+    },
+    "uncles": {
+        "words": [
+            "aunts"
+        ],
+        "gender": "M"
+    },
+    "aunts": {
+        "words": [
+            "uncles"
+        ],
+        "gender": "F"
+    },
+    "bloke": {
+        "words": [
+            "wench"
+        ],
+        "gender": "M"
+    },
+    "wench": {
+        "words": [
+            "bloke"
+        ],
+        "gender": "F"
+    },
+    "beards": {
+        "words": [
+            "toques"
+        ],
+        "gender": "M"
+    },
+    "toques": {
+        "words": [
+            "beards"
+        ],
+        "gender": "F"
+    },
+    "hubby": {
+        "words": [
+            "wife"
+        ],
+        "gender": "M"
+    },
+    "lion": {
+        "words": [
+            "lioness"
+        ],
+        "gender": "M"
+    },
+    "lioness": {
+        "words": [
+            "lion"
+        ],
+        "gender": "F"
+    },
+    "sorcerer": {
+        "words": [
+            "sorceress"
+        ],
+        "gender": "M"
+    },
+    "sorceress": {
+        "words": [
+            "sorcerer"
+        ],
+        "gender": "F"
+    },
+    "macho": {
+        "words": [
+            "effeminate"
+        ],
+        "gender": "M"
+    },
+    "effeminate": {
+        "words": [
+            "macho"
+        ],
+        "gender": "F"
+    },
+    "father": {
+        "words": [
+            "mother"
+        ],
+        "gender": "M"
+    },
+    "mother": {
+        "words": [
+            "father"
+        ],
+        "gender": "F"
+    },
+    "gays": {
+        "words": [
+            "lesbians"
+        ],
+        "gender": "M"
+    },
+    "lesbians": {
+        "words": [
+            "gays"
+        ],
+        "gender": "F"
+    },
+    "male": {
+        "words": [
+            "female"
+        ],
+        "gender": "M"
+    },
+    "female": {
+        "words": [
+            "male"
+        ],
+        "gender": "F"
+    },
+    "waiters": {
+        "words": [
+            "waitresses"
+        ],
+        "gender": "M"
+    },
+    "waitresses": {
+        "words": [
+            "waiters"
+        ],
+        "gender": "F"
+    },
+    "sperm": {
+        "words": [
+            "ovum"
+        ],
+        "gender": "M"
+    },
+    "ovum": {
+        "words": [
+            "sperm"
+        ],
+        "gender": "F"
+    },
+    "prostate": {
+        "words": [
+            "skene_gland"
+        ],
+        "gender": "M"
+    },
+    "skene_gland": {
+        "words": [
+            "prostate"
+        ],
+        "gender": "F"
+    },
+    "stepson": {
+        "words": [
+            "stepdaughter"
+        ],
+        "gender": "M"
+    },
+    "stepdaughter": {
+        "words": [
+            "stepson"
+        ],
+        "gender": "F"
+    },
+    "prostatic_utricle": {
+        "words": [
+            "womb",
+            "uterus"
+        ],
+        "gender": "M"
+    },
+    "womb": {
+        "words": [
+            "prostatic_utricle"
+        ],
+        "gender": "F"
+    },
+    "businessmen": {
+        "words": [
+            "businesswomen"
+        ],
+        "gender": "M"
+    },
+    "businesswomen": {
+        "words": [
+            "businessmen"
+        ],
+        "gender": "F"
+    },
+    "heir": {
+        "words": [
+            "heiress"
+        ],
+        "gender": "M"
+    },
+    "heiress": {
+        "words": [
+            "heir"
+        ],
+        "gender": "F"
+    },
+    "waiter": {
+        "words": [
+            "waitress"
+        ],
+        "gender": "M"
+    },
+    "waitress": {
+        "words": [
+            "waiter"
+        ],
+        "gender": "F"
+    },
+    "headmaster": {
+        "words": [
+            "headmistress"
+        ],
+        "gender": "M"
+    },
+    "headmistress": {
+        "words": [
+            "headmaster"
+        ],
+        "gender": "F"
+    },
+    "man": {
+        "words": [
+            "woman"
+        ],
+        "gender": "M"
+    },
+    "woman": {
+        "words": [
+            "man"
+        ],
+        "gender": "F"
+    },
+    "governor": {
+        "words": [
+            "governess"
+        ],
+        "gender": "M"
+    },
+    "governess": {
+        "words": [
+            "governor"
+        ],
+        "gender": "F"
+    },
+    "godess": {
+        "words": [
+            "god"
+        ],
+        "gender": "F"
+    },
+    "bridegroom": {
+        "words": [
+            "bride"
+        ],
+        "gender": "M"
+    },
+    "bride": {
+        "words": [
+            "bridegroom",
+            "groom"
+        ],
+        "gender": "F"
+    },
+    "grandpa": {
+        "words": [
+            "grandma"
+        ],
+        "gender": "M"
+    },
+    "grandma": {
+        "words": [
+            "grandpa"
+        ],
+        "gender": "F"
+    },
+    "groom": {
+        "words": [
+            "bride"
+        ],
+        "gender": "M"
+    },
+    "gay": {
+        "words": [
+            "lesbian"
+        ],
+        "gender": "M"
+    },
+    "lesbian": {
+        "words": [
+            "gay"
+        ],
+        "gender": "F"
+    },
+    "gents": {
+        "words": [
+            "ladies"
+        ],
+        "gender": "M"
+    },
+    "boy": {
+        "words": [
+            "girl"
+        ],
+        "gender": "M"
+    },
+    "girl": {
+        "words": [
+            "boy"
+        ],
+        "gender": "F"
+    },
+    "grandfather": {
+        "words": [
+            "grandmother"
+        ],
+        "gender": "M"
+    },
+    "grandmother": {
+        "words": [
+            "grandfather"
+        ],
+        "gender": "F"
+    },
+    "gelding": {
+        "words": [
+            "mare"
+        ],
+        "gender": "M"
+    },
+    "roosters": {
+        "words": [
+            "hens"
+        ],
+        "gender": "M"
+    },
+    "hens": {
+        "words": [
+            "roosters"
+        ],
+        "gender": "F"
+    },
+    "uterus": {
+        "words": [
+            "prostatic_utricle"
+        ],
+        "gender": "F"
+    },
+    "manservants": {
+        "words": [
+            "maidservants"
+        ],
+        "gender": "M"
+    },
+    "maidservants": {
+        "words": [
+            "manservants"
+        ],
+        "gender": "F"
+    },
+    "stailor": {
+        "words": [
+            "seamstress'"
+        ],
+        "gender": "M"
+    },
+    "seamstress'": {
+        "words": [
+            "stailor"
+        ],
+        "gender": "F"
+    },
+    "busboy": {
+        "words": [
+            "busgirl"
+        ],
+        "gender": "M"
+    },
+    "busgirl": {
+        "words": [
+            "busboy"
+        ],
+        "gender": "F"
+    },
+    "heros": {
+        "words": [
+            "heroines"
+        ],
+        "gender": "M"
+    },
+    "heroines": {
+        "words": [
+            "heros"
+        ],
+        "gender": "F"
+    }
+}
