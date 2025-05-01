@@ -207,9 +207,9 @@ if __name__ == "__main__":
     # print(response)
 
     num_of_turns = 1
-    target_model = "gpt-4o"
+    target_model = "gpt-4o" #insert a model that you like
     dataset = load_stereoset()
     multi_turn_chat(dataset, num_turns=num_of_turns, target_model=target_model,
-                    summary_path="../KB/fake_papers_summary.txt",
+                    summary_path="../KB/fake_papers_summary.txt", # change it to the appropriate path here
                     output_path=f"../output/stereotypical_{num_of_turns}_turns_authors_venues_{target_model}_fake_paper.json",
                     include_bias=False, fine_grained=False)
